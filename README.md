@@ -10,6 +10,9 @@
 - **Performance**:
   - Baseline Accuracy: `~X%` (on CIFAR-10)
   - Improved Accuracy: `~Y%` after architectural modifications and training enhancements
+- 🚀 Live Demo
+
+👉 [Check it out here](https://huggingface.co/spaces/Jagjeet2003/Modified_AlexNet)
 
 ### 🧪 Upcoming Implementations
 - VGGNet
