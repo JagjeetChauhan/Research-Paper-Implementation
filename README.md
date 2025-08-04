@@ -29,4 +29,8 @@
 | AlexNet (Original)  | CIFAR-10 | ~75%      | Pure from-scratch implementation   |
 | AlexNet (Improved)  | CIFAR-10 | ~89%      | Added BatchNorm, tweaked optimizer |
 
+### Loss Curve
+![Loss Curve](https://github.com/JagjeetChauhan/Research-Paper-Implementation/blob/main/AlexNet%20Loss%20Curve.png)
 
+### Accuracy Curve
+![Accuracy Curve]
