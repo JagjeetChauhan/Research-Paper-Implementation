@@ -14,8 +14,15 @@
 
 👉 [Check it out here](https://huggingface.co/spaces/Jagjeet2003/Modified_AlexNet)
 
+### ✅ [VGG-16 (2014)](https://arxiv.org/abs/1409.1556)
+- **Original Paper**: *Very Deep Convolutional Networks for Large-Scale Image Recognition*
+- **Dataset Used**: CIFAR-10
+- **From-Scratch Implementation**: 13 conv layers + 3 fully connected layers
+- **Performance**:
+  - Accuracy: `~75%`
+- 🛠️ Code in progress — improvements and live demo coming soon!
+
 ### 🧪 Upcoming Implementations
-- VGGNet
 - ResNet
 - Vision Transformers (ViT)
 - [Your Suggestions Welcome!](#contributing)
@@ -26,11 +33,19 @@
 
 | Model                | Dataset  | Accuracy | Notes                              |
 |---------------------|----------|----------|------------------------------------|
-| AlexNet (Original)  | CIFAR-10 | ~75%      | Pure from-scratch implementation   |
-| AlexNet (Improved)  | CIFAR-10 | ~89%      | Added BatchNorm, tweaked optimizer |
+| AlexNet (Original)  | CIFAR-10 | ~75%     | Pure from-scratch implementation   |
+| AlexNet (Improved)  | CIFAR-10 | ~89%     | Added BatchNorm, tweaked optimizer |
+| VGG-16              | CIFAR-10 | ~75%     | Deep architecture, baseline config |
 
-### Loss Curve
+### AlexNet Loss Curve
 ![Loss Curve](https://github.com/JagjeetChauhan/Research-Paper-Implementation/blob/main/AlexNet%20Loss%20Curve.png)
 
-### Accuracy Curve
-![Accuracy Curve]
+### AlexNet Accuracy Curve
+![Accuracy Curve](https://github.com/JagjeetChauhan/Research-Paper-Implementation/blob/main/AlexNet%20Accuracy%20Curve.png)
+
+### VGG-16 Loss Curve
+![Loss Curve of VGG-16](https://github.com/JagjeetChauhan/Research-Paper-Implementation/blob/main/VGG16%20Loss%20Curve.png)
+
+### Vgg-16 Accuracy Curve
+![Accuracy Curve of VGG-16](https://github.com/JagjeetChauhan/Research-Paper-Implementation/blob/main/VGG-16%20Accuracy%20Curve.png)
+
