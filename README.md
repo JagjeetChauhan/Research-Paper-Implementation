@@ -8,8 +8,8 @@
 - **Dataset Used**: CIFAR-10
 - **From-Scratch Implementation**: Custom convolution, activation, and fully connected layers
 - **Performance**:
-  - Baseline Accuracy: `~X%` (on CIFAR-10)
-  - Improved Accuracy: `~Y%` after architectural modifications and training enhancements
+  - Baseline Accuracy: `~75%%` (on CIFAR-10)
+  - Improved Accuracy: `~89%` after architectural modifications and training enhancements
 - 🚀 Live Demo
 
 👉 [Check it out here](https://huggingface.co/spaces/Jagjeet2003/Modified_AlexNet)
@@ -26,7 +26,7 @@
 
 | Model                | Dataset  | Accuracy | Notes                              |
 |---------------------|----------|----------|------------------------------------|
-| AlexNet (Original)  | CIFAR-10 | ~X%      | Pure from-scratch implementation   |
-| AlexNet (Improved)  | CIFAR-10 | ~Y%      | Added BatchNorm, tweaked optimizer |
+| AlexNet (Original)  | CIFAR-10 | ~75%      | Pure from-scratch implementation   |
+| AlexNet (Improved)  | CIFAR-10 | ~89%      | Added BatchNorm, tweaked optimizer |
 
 > See `/results/` for accuracy plots and training logs.
