@@ -29,4 +29,4 @@
 | AlexNet (Original)  | CIFAR-10 | ~75%      | Pure from-scratch implementation   |
 | AlexNet (Improved)  | CIFAR-10 | ~89%      | Added BatchNorm, tweaked optimizer |
 
-> See `/results/` for accuracy plots and training logs.
+
